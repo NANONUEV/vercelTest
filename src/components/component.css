@@ -1,0 +1,9 @@
+.component-container {
+  display: flex;
+  position: relative;
+}
+.component-div {
+  width: 1920px;
+  height: 960px;
+  z-index: 100;
+}
